@@ -1,4 +1,1 @@
-git add .
-git comit -m 'commit message'
-git push
-git statsu
+git pull
