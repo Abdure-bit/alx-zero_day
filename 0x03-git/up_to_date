@@ -1,0 +1,7 @@
+git add .
+git comit -m 'commit message'
+git push
+git statsu
+git checkout -b new_brach_name
+git checkout existing_branch_name
+git clone link_of_the_repo
